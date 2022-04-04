@@ -54,7 +54,7 @@
         <h1 class="fw-light">Akhmat Bidzhiev</h1>
         <p class="lead text-muted">
           I am glag to learn software development from this course. In this HTML course
-          
+          I shall build my personal website
         </p>
         <a href="https://stashchuk.com" target="_blank" class="btn btn-primary"> 
            My YouTube channel of B.St.
