@@ -61,7 +61,7 @@
         </a>
         <a href="https://www.youtube.com/CodingTutorials" target="_blank" 
           class="btn btn-secondary">
-          My YouTube channel of B.St.
+         
         </a>
       </div>
     </div>
