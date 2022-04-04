@@ -57,11 +57,11 @@
           I shall build my personal website
         </p>
         <a href="https://stashchuk.com" target="_blank" class="btn btn-primary"> 
-          My Website
+          My Website of B.St.
         </a>
         <a href="https://www.youtube.com/CodingTutorials" target="_blank" 
           class="btn btn-secondary">
-          My YouTube channel
+          My YouTube channel of B.St.
         </a>
       </div>
     </div>
